@@ -1,0 +1,6 @@
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Release\DownloadAndExec.exe.config
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Release\DownloadAndExec.exe
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Release\DownloadAndExec.pdb
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\DownloadAndExec.csproj.CoreCompileInputs.cache
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\DownloadAndExec.exe
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\DownloadAndExec.pdb

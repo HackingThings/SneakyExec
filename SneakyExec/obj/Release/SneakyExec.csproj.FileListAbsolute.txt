@@ -1,0 +1,6 @@
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Release\SneakyExec.exe.config
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Release\SneakyExec.exe
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Release\SneakyExec.pdb
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\SneakyExec.csproj.CoreCompileInputs.cache
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\SneakyExec.exe
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\SneakyExec.pdb

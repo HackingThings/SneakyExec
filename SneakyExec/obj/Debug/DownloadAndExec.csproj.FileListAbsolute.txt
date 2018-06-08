@@ -1,0 +1,7 @@
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Debug\DownloadAndExec.exe.config
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Debug\DownloadAndExec.exe
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Debug\DownloadAndExec.pdb
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Debug\DownloadAndExec.csprojResolveAssemblyReference.cache
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Debug\DownloadAndExec.csproj.CoreCompileInputs.cache
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Debug\DownloadAndExec.exe
+C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Debug\DownloadAndExec.pdb

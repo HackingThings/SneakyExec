@@ -1,0 +1,6 @@
+C:\Users\mickey\source\repos\SneakyExec\SneakyExec\bin\Debug\SneakyExec.exe.config
+C:\Users\mickey\source\repos\SneakyExec\SneakyExec\bin\Debug\SneakyExec.exe
+C:\Users\mickey\source\repos\SneakyExec\SneakyExec\bin\Debug\SneakyExec.pdb
+C:\Users\mickey\source\repos\SneakyExec\SneakyExec\obj\Debug\SneakyExec.csproj.CoreCompileInputs.cache
+C:\Users\mickey\source\repos\SneakyExec\SneakyExec\obj\Debug\SneakyExec.exe
+C:\Users\mickey\source\repos\SneakyExec\SneakyExec\obj\Debug\SneakyExec.pdb
