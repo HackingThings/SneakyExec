@@ -4,3 +4,9 @@ C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\bin\Release\SneakyE
 C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\SneakyExec.csproj.CoreCompileInputs.cache
 C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\SneakyExec.exe
 C:\Users\mickey\source\repos\DownloadAndExec\DownloadAndExec\obj\Release\SneakyExec.pdb
+C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\bin\Release\SneakyExec.exe.config
+C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\bin\Release\SneakyExec.exe
+C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\bin\Release\SneakyExec.pdb
+C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.csproj.CoreCompileInputs.cache
+C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.exe
+C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.pdb
