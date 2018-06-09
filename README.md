@@ -15,3 +15,5 @@ C# code to compile another C# code from string and run shellcode
 Same as Vincents code: Replace with 32 bit shellcode if compiling as 32 bit, and 64 bit if compiling as 64 bit.
 
 # Current rates on VT 0/67
+
+## note: because this code compiles another program using the C# compiler, the new compiled binary will touch diak at a temp folder location so it might get detected by an AV then
