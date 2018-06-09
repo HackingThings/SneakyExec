@@ -2,7 +2,7 @@
 
 # I got inspired by @vysecurity and his FSharp Shell code (https://github.com/vysec/FSharp-Shellcode) to try and get it to 0 detections on virus total.
 
-So I hacked to gether a few peices of code from:
+So I hacked together a few peices of code from:
 - https://webstersprodigy.net/2012/08/31/av-evading-meterpreter-shell-from-a-net-service/ - as a base
 - https://raw.githubusercontent.com/vysec/FSharp-Shellcode/master/FSharp-Shellcode.fs - as inspiration
 - https://stackoverflow.com/questions/1361965/compile-simple-string - as a source of code
@@ -17,3 +17,5 @@ Same as Vincents code: Replace with 32 bit shellcode if compiling as 32 bit, and
 # Current rates on VT 0/67
 
 ## note: because this code compiles another program using the C# compiler, the new compiled binary will touch diak at a temp folder location so it might get detected by an AV then
+
+### For educational purposes only! 
