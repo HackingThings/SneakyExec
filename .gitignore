@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/SneakyExec/v15
+*.exe
+*.pdb
+SneakyExec/obj/Release/SneakyExec.csproj.FileListAbsolute.txt
+SneakyExec/obj/Release/SneakyExec.csprojResolveAssemblyReference.cache
+SneakyExec/obj/Release/SneakyExec.exe
+SneakyExec/obj/Release/SneakyExec.pdb
+SneakyExec/bin/Release/SneakyExec.exe
+SneakyExec/bin/Release/SneakyExec.exe
