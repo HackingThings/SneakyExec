@@ -10,3 +10,4 @@ C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\bin\Release\Sneak
 C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.csproj.CoreCompileInputs.cache
 C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.exe
 C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.pdb
+C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.csprojResolveAssemblyReference.cache
