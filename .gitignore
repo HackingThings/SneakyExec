@@ -3,6 +3,7 @@
 ################################################################################
 
 /.vs/SneakyExec/v15
+/SneakyExec/bin
 *.exe
 *.pdb
 SneakyExec/obj/Release/SneakyExec.csproj.FileListAbsolute.txt
