@@ -12,3 +12,5 @@ SneakyExec/obj/Release/SneakyExec.exe
 SneakyExec/obj/Release/SneakyExec.pdb
 SneakyExec/bin/Release/SneakyExec.exe
 SneakyExec/bin/Release/SneakyExec.exe
+*.exe
+*.pdb
