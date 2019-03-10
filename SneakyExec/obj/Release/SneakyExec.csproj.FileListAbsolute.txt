@@ -11,3 +11,8 @@ C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\Sneak
 C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.exe
 C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.pdb
 C:\Users\mickey\Desktop\Eclypsium\GitHub\SneakyExec\SneakyExec\obj\Release\SneakyExec.csprojResolveAssemblyReference.cache
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\bin\Release\SneakyExec.exe.config
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\bin\Release\SneakyExec.exe
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\SneakyExec.csproj.CoreCompileInputs.cache
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\SneakyExec.exe
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\SneakyExec.csprojAssemblyReference.cache
