@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakyExec", "SneakyExec\SneakyExec.csproj", "{612590AA-AF68-41E6-8CE2-E831F7FE4CCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec", "SneakyExec\exec.csproj", "{612590AA-AF68-41E6-8CE2-E831F7FE4CCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

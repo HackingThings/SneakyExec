@@ -15,4 +15,3 @@ C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\bin\Release\Sne
 C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\bin\Release\SneakyExec.exe
 C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\SneakyExec.csproj.CoreCompileInputs.cache
 C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\SneakyExec.exe
-C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\SneakyExec.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\exec.csproj.CoreCompileInputs.cache
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\bin\Release\run.exe.config
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\bin\Release\run.exe
+C:\Users\mickey\Source\Repos\HackingThings\SneakyExec\SneakyExec\obj\Release\run.exe

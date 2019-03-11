@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SneakyExec")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Empty Title")]
+[assembly: AssemblyDescription("This is an empty description")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SneakyExec")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCompany("some company")]
+[assembly: AssemblyProduct("product code name")]
+[assembly: AssemblyCopyright("Copyright the world 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
